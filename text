@@ -1,0 +1,13 @@
+Collaborative Filtering :
+
+Approach 1: - User to User Collaborative Filtering
+  Find a Similar user and recommend movies that they like
+
+Approach 2: - Item to Item Collaborative Filtering
+  Find similar movies based on ratings given by other users
+This is a better approach because:
+    1. Usually there are more users than the no of products
+    2. User preferences are dynamic
+
+
+A Pearson correlation is a number between -1 and 1 that indicates the extent to which two variables are linearly related. The Pearson correlation is also known as the “product moment correlation coefficient” (PMCC) or simply “correlation”.
